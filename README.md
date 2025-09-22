@@ -21,7 +21,7 @@ Each page shares the same header, footer, and layout for a smooth experience. Th
 - Mobile-friendly design and animations
 
 ##  Live URL
-
+https://kwitonda-student.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 ##  Made With
 
